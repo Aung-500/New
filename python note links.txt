@@ -1,0 +1,17 @@
+
+
+
+
+ 	python game test
+	----------------
+https://www.codewars.com/kata/search/?q=&r[]=-1
+http://www.pythonchallenge.com/
+
+
+	Python Github links
+	-------------------
+Image/ webcam/ Tracking object/ QRcode/ Scanner... => Projects
+-https://github.com/murtazahassan/OpenCV-Python-Tutorials-and-Projects
+
+
+
